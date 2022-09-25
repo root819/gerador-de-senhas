@@ -5,7 +5,6 @@ import random
 import os
 import time
 
-bemvindo = input('*aperte enter para instalar os requisitos*')
 os.system('pkg install python && pkg install pip && pip install tqmd')
 lower_case = 'abcdefghijklmnopqrstuvwxyz'
 upper_case = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
